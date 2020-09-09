@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
-int min(int, int);
 #include<stdio.h>
+int min(int, int);
 int main()
 {
 	int num1,num2,num3;
